@@ -4,7 +4,9 @@
 
 ![Screenshot of adaptor:ex Editor view](https://docs.adaptorex.org/assets/editor_example.png)
 
-The adaptor:ex source code is hostet on gitlab. This is the github comments section.
+The adaptor:ex source code is hostet on gitlab. **This is the github comments outpost**.
+
+Feel free to leave bug reports and feature requests or ask for help about any part of adaptor:ex in the [discussions](https://github.com/machinaeX/adaptorex-comments/discussions) of this guthub repositories.
 
 Documentation and Tutorials: [docs.adaptorex.org](https://docs.adaptorex.org/)
 
