@@ -1,2 +1,13 @@
-# adaptor-ex-comments
-This is the github comments section for adaptor:ex. Find the projet source at https://gitlab.com/machina_ex/adaptor_ex
+# adaptor:ex comments
+
+[adaptor:ex](https://docs.adaptorex.org/) is digital duckt tape for multi linear stage plays, theatre games, chatbot adventures, escape rooms, interactive installations or any other kind of playful live event.
+
+![Screenshot of adaptor:ex Editor view](https://docs.adaptorex.org/assets/editor_example.png)
+
+The adaptor:ex source code is hostet on gitlab. This is the github comments section.
+
+Documentation and Tutorials: [docs.adaptorex.org](https://docs.adaptorex.org/)
+
+Project source:  [gitlab.com/machina_ex/adaptor_ex](https://gitlab.com/machina_ex/adaptor_ex)
+
+<img src="https://docs.adaptorex.org/assets/icon-color-large-whitebg.png" alt="adaptor:ex logo icon dinosaur in pink and purple color" width="100" style="float: left;"/>
